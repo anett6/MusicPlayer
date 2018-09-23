@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="title_activity_now_playing">Now Playing</string>
+    <string name="artist_name1">Jason Derulo</string>
+    <string name="artist_name2">Adam Lambert</string>
+    <string name="song1_1">Want to Want Me</string>
+    <string name="song1_2">Talk Dirty (ft. 2 Chainz)</string>
+    <string name="song1_3">Wiggle (ft. Snoop Dogg)</string>
+    <string name="song1_4">Trumpets</string>
+    <string name="song1_5">Whatcha Say</string>
+    <string name="song1_6">Ridin\' Solo</string>
+    <string name="song1_7">It Girl</string>
+    <string name="song1_8">Marry Me</string>
+    <string name="song1_9">Don\'t Wanna Go Home</string>
+    <string name="song1_10">Kiss the Sky</string>
+    <string name="song2_1">Ghost Town</string>
+    <string name="song2_2">The Original High</string>
+    <string name="song2_3">Another Lonely Night</string>
+    <string name="song2_4">Underground</string>
+    <string name="song2_5">Rumors (ft. Tove Lo)</string>
+    <string name="song2_6">Evil In The Night</string>
+    <string name="song2_7">Lucy (ft. Brian May)</string>
+    <string name="song2_8">Trespassing</string>
+    <string name="song2_9">Never Close Our Eyes</string>
+    <string name="song2_10">Better Than I Know Myself</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:id="@+id/list_item"
+    android:minHeight="24dp"
+    android:padding="@dimen/fav_space_16">
+
+    <ImageView
+        android:id="@+id/album_icon_image"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        tools:src="@drawable/jason_derulo_album"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/fav_space_16">
+
+    <TextView
+        android:id="@+id/song_title_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="bottom"
+        tools:text="Song Title"
+        android:textColor="@color/colorForArtistName" />
+
+    <TextView
+        android:id="@+id/artist_name_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="top"
+        tools:text="Artist Name"
+        android:textColor="@color/colorForSongTitle" />
+    </LinearLayout>
+</LinearLayout>

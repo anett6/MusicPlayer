@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="fav_space_16">16dp</dimen>
+    <dimen name="small_space_8">8dp</dimen>
+</resources>
